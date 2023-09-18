@@ -20,7 +20,7 @@ const Sidebar = () => {
         <div className="github-logo-container">
           <GitHubIcon fontSize="large" />
           <a
-            href="https://github.com/brijsiyag/Sorting-Visualizer"
+            href="https://github.com/lordchetan7773/Sorting-Visualizer-App"
             target="_blank"
             rel="noreferrer"
           >
