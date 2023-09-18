@@ -1,10 +1,5 @@
 # Sorting Visualizzer
-
-[Deployed Link](https://sorting-visualizzer.netlify.app/)
-
 ## Available Scripts
-
-
 In the project directory, you can run:
 
 ### `yarn start`
